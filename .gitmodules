@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ig.vancouver.2014.topcolour"]
+	path = ig.vancouver.2014.topcolour
+	url = https://github.com/cran/ig.vancouver.2014.topcolour
+	shallow = true
+	registered = true
